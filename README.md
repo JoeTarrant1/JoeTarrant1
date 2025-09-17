@@ -1,4 +1,13 @@
-## Hi there 👋
+<h1>Hi, I'm Joe</h1>
+<p>Currently studying computer science at the University of Exeter</p>
+
+<h2>Project Examples</h2>
+
+- [Leaderboard Ranking System]()
+- [Tank Game]()
+- [Battleships game]() 
+
+
 
 <!--
 **JoeTarrant1/JoeTarrant1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
