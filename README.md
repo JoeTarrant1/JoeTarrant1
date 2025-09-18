@@ -1,5 +1,5 @@
 <h1>Hi, I'm Joe</h1>
-<p>Currently studying computer science at the University of Exeter</p>
+<p>Currently in second year studying computer science at the University of Exeter</p>
 
 <h2>Project Examples</h2>
 
